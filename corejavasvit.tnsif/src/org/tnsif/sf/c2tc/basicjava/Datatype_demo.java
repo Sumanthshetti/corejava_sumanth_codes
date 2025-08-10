@@ -1,4 +1,4 @@
-package corejavasvit.tnsif;
+package org.tnsif.sf.c2tc.basicjava;
 //online food delivery
 public class Datatype_demo {
 

@@ -1,6 +1,6 @@
 package variable;
 
-import corejavasvit.tnsif.Variable;
+import org.tnsif.sf.c2tc.basicjava.Variable;
 
 public class Variabledemo {
 	int a= 10;//instance var

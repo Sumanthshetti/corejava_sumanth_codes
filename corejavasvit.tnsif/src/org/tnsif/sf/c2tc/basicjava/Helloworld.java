@@ -1,4 +1,4 @@
-package corejavasvit.tnsif;
+package org.tnsif.sf.c2tc.basicjava;
 
 public class Helloworld {
 
