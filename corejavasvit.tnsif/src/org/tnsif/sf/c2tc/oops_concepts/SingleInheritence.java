@@ -11,7 +11,7 @@ package org.tnsif.sf.c2tc.oops_concepts;
 	}
 	class Student extends Course //child
 	{
-		String name="Sumanth";
+		String name="Harshith";
 		
 		void showStudent()
 		{
